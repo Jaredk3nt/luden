@@ -1,32 +1,45 @@
 {
-    "name": "luden",
-    "displayName": "Luden",
-    "description": "Very dark minimal theme with accessible colors",
-    "version": "0.0.1",
-    "publisher": "jaredkent",
-    "engines": {
-        "vscode": "^1.35.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Luden",
-                "uiTheme": "vs-dark",
-                "path": "./themes/luden-theme.json"
-            },
-            {
-                "label": "Luden Warm",
-                "uiTheme": "vs-dark",
-                "path": "./themes/luden-warm-theme.json"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/jaredk3nt/luden"
+  "name": "luden",
+  "displayName": "Luden",
+  "description": "Very dark minimal theme with accessible colors",
+  "version": "0.0.4",
+  "publisher": "jaredkent",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#030303",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Luden",
+        "uiTheme": "vs-dark",
+        "path": "./themes/luden-theme.json"
       },
-    "homepage": "https://github.com/jaredk3nt/luden"
+      {
+        "label": "Luden Warm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/luden-warm-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaredk3nt/luden"
+  },
+  "homepage": "https://github.com/jaredk3nt/luden",
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "accessible",
+    "aaa",
+    "minimal"
+  ]
 }
