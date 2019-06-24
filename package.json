@@ -1,0 +1,27 @@
+{
+    "name": "luden",
+    "displayName": "Luden",
+    "description": "Very dark minimal theme",
+    "version": "0.0.1",
+    "publisher": "jaredkent",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Luden",
+                "uiTheme": "vs-dark",
+                "path": "./themes/luden-theme.json"
+            },
+            {
+                "label": "Luden Warm",
+                "uiTheme": "vs-dark",
+                "path": "./themes/luden-warm-theme.json"
+            }
+        ]
+    }
+}
