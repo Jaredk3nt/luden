@@ -21,4 +21,4 @@ Luden is a minimal ultra dark color theme with clean high contrast colors. All c
 
 ## Luden Warm
 
-**Luden Warm** is a variant using a warm color set rather than a cool one.
+**Luden Warm** is a variant using a warm color set rather than a cool one. **Luden Warm** is still is testing and should be treated as a *beta* theme.

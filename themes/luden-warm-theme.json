@@ -1,5 +1,5 @@
 {
-	"name": "Luden Warm",
+	"name": "Luden Warm (Beta)",
 	"type": "dark",
   "colors": {
     "editor.foreground": "#ffffff",
@@ -93,7 +93,7 @@
         "keyword.operator.new.js"
       ],
       "settings": {
-        "foreground": "#cb56ef"
+        "foreground": "#d26cf1"
       }
     },
     {
@@ -217,7 +217,7 @@
         "keyword.operator.spread.js"
       ],
       "settings": {
-        "foreground": "#7d828e"
+        "foreground": "#9aa0ae"
       }
     },
     {

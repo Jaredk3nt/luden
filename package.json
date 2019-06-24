@@ -1,7 +1,7 @@
 {
     "name": "luden",
     "displayName": "Luden",
-    "description": "Very dark minimal theme",
+    "description": "Very dark minimal theme with accessible colors",
     "version": "0.0.1",
     "publisher": "jaredkent",
     "engines": {
@@ -23,5 +23,10 @@
                 "path": "./themes/luden-warm-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jaredk3nt/luden"
+      },
+    "homepage": "https://github.com/jaredk3nt/luden"
 }
