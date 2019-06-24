@@ -118,7 +118,7 @@
         "entity.other.attribute-name.class.css"
       ],
       "settings": {
-        "foreground": "#cb56ef"
+        "foreground": "#d26cf1"
       }
     },
     {
@@ -232,7 +232,7 @@
         "punctuation.definition.template-expression.end.js"
       ],
       "settings": {
-        "foreground": "#7d828e"
+        "foreground": "#9aa0ae"
       }
     },
     {
